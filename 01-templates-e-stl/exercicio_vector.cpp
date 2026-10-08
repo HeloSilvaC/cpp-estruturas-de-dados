@@ -4,7 +4,6 @@
 // O protótipo exigido pelo seu material
 std::vector<int> coletar_pares(const std::vector<int>& v) {
     // 1. Crie um novo vector<int> vazio para armazenar o resultado.
-    vector<int> 
     
     // 2. Faça um laço de repetição (for) para percorrer todos os elementos de 'v'.
     // Dica: você pode usar a função v.size() para saber o tamanho da lista.
