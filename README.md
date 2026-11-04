@@ -10,7 +10,7 @@
 
 ## 📌 Sobre o Repositório
 
-Este repositório reúne os conceitos teóricos e exercícios práticos desenvolvidos durante a disciplina de Estruturas de Dados II. O objetivo é consolidar o domínio da linguagem C++, gestão de memória, análise de complexidade e algoritmos clássicos de ordenação e pesquisa.
+Este repositório reúne os conceitos teóricos e exercícios práticos desenvolvidos durante a disciplina de Estruturas de Dados II. O objetivo é consolidar o domínio da linguagem C++, gestão de memória, análise de complexidade e algoritmos clássicos de ordenação, pesquisa e hashing.
 
 ---
 
@@ -23,6 +23,9 @@ cpp-estruturas-de-dados/
 ├── 03-vetores-e-arrays/             # Manipulação de vetores, percursos e operações com arrays
 ├── 04-recursividade/                # Algoritmos recursivos, pilha de execução e casos base
 ├── 05-ordenacao/                    # Algoritmos de ordenação eficientes e elementares
+├── 06-provas/                       # Códigos, testes e depurações voltados para as avaliações
+├── 07-atividades/                   # Resoluções de listas de exercícios práticos
+├── 08-teoria/                       # Anotações e resumos dos conceitos abordados em aula
 └── output/                          # Ficheiros compilados (.exe / binários - ignorados no Git)
 ```
 
@@ -35,6 +38,7 @@ cpp-estruturas-de-dados/
 - **Vetores e Arrays:** Operações com arrays dinâmicos e estáticos.
 - **Recursividade:** Resolução de problemas por divisão, análise da pilha (*call stack*) e condições de paragem.
 - **Ordenação:** Estudo e comparação de algoritmos (Bubble Sort, Insertion Sort, Quick Sort, Merge Sort).
+- **Tabelas Hash (Hashing):** Tratamento de colisões por encadeamento direto e endereçamento aberto, funções de hash modular, sondagem linear, quadrática e redimensionamento (rehashing).
 
 ---
 
